@@ -1,0 +1,24 @@
+_repo: Railway-Shop-Up-to-Date--13-A-Reference-Book-of-Up-to-Date-American-Railway-Shop-Practices_12148
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Haig, Maham H.
+    gutenberg_agent_id: '35064'
+    url: http://www.gutenberg.org/2009/agents/35064
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12148'
+  lccn: '07042333'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroad repair shops'
+- !lcc 'TF'
+- GITenberg
+title: "Railway Shop Up to Date\r\nA Reference Book of Up to Date American Railway\
+  \ Shop Practices"
+url: http://www.gutenberg.org/ebooks/12148
